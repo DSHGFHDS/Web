@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ConcertS", "http://localhost:14069", "{5FE0CE96-B7F4-4EE4-AF34-3DF89E508FE5}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_14069"
+		Debug.AspNetCompiler.PhysicalPath = "..\ConcertS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14069\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_14069"
+		Release.AspNetCompiler.PhysicalPath = "..\ConcertS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14069\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\ConcertS\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE0CE96-B7F4-4EE4-AF34-3DF89E508FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE0CE96-B7F4-4EE4-AF34-3DF89E508FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,60 @@
+.concert_name
+{
+	font-size:30px;
+	color:#000;
+}
+
+img.home_poster
+{
+	height: 20em;
+    width:15em;
+}
+
+div.home_poster
+{
+	display: inline-block;
+	text-align: center;
+	margin-left:30%;
+}
+
+div.home_text_info
+{
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	margin-bottom: 2em;
+	margin-left: 5em;
+	width: 20em;
+}
+
+div.concert_list
+{
+    background-image:url("../../image/listbg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:3em;
+}
+
+div.concert_more
+{
+    background: #ffb70d;
+    position:relative;
+    text-align:center;
+}
+
+div.header
+{
+    background: #ffb70d;
+	position: fixed;
+	width: 100%;
+	top: 6px;
+    left: -6px;
+	text-align: center;
+}
+
+.bill 
+{
+    width: 50%;
+    margin-left: 25%;
+    position:relative;
+}
